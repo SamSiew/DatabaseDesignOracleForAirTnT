@@ -1,0 +1,301 @@
+
+
+
+Table ACTIVITY created.
+
+
+
+Table ACTIVITY altered.
+
+
+
+Table ACTIVITY_CONDUCT created.
+
+
+
+Comment created.
+
+
+
+Table ACTIVITY_CONDUCT altered.
+
+
+
+Table BOOK created.
+
+
+
+Comment created.
+
+
+
+Table BOOK altered.
+
+
+
+Table CHECK_IN created.
+
+
+
+Comment created.
+
+
+
+Table CHECK_IN altered.
+
+
+
+Table CHECK_IN altered.
+
+
+
+Table COSTCENTRE created.
+
+
+
+Table COSTCENTRE altered.
+
+
+
+Table CUSTOMER created.
+
+
+
+Table CUSTOMER altered.
+
+
+
+Comment created.
+
+
+
+Table CUSTOMER altered.
+
+
+
+Table CUSTOMER altered.
+
+
+
+Table CUSTOMER altered.
+
+
+
+Table HAS_ITEM created.
+
+
+
+Table HAS_ITEM altered.
+
+
+
+Table HAS_ITEM altered.
+
+
+
+Comment created.
+
+
+
+Table HAS_ITEM altered.
+
+
+
+Table HAS_SPECIAL created.
+
+
+
+Table HAS_SPECIAL altered.
+
+
+
+Table HAS_TASK created.
+
+
+
+Table HAS_TASK altered.
+
+
+
+Table HAS_TASK altered.
+
+
+
+Table HOUSEKEEPER created.
+
+
+
+Table HOUSEKEEPER altered.
+
+
+
+Table HOUSEKEEPER altered.
+
+
+
+Table HOUSEKEEPER altered.
+
+
+
+Table HOUSEKEEPER altered.
+
+
+
+Table HOUSESHARE created.
+
+
+
+Table HOUSESHARE altered.
+
+
+
+Table HOUSESHARE altered.
+
+
+
+Table HOUSESHARE altered.
+
+
+
+Table ITEM created.
+
+
+
+Table ITEM altered.
+
+
+
+Table ITEM altered.
+
+
+
+Table ROOM created.
+
+
+
+Table ROOM altered.
+
+
+
+Table ROOM altered.
+
+
+
+Table ROOM altered.
+
+
+
+Table ROOM altered.
+
+
+
+Table SPECIALISATION created.
+
+
+
+Table SPECIALISATION altered.
+
+
+
+Table TOURGUIDE created.
+
+
+
+Table TOURGUIDE altered.
+
+
+
+Table TOURGUIDE altered.
+
+
+
+Table TOURGUIDE altered.
+
+
+
+Table ACTIVITY_CONDUCT altered.
+
+
+
+Table ACTIVITY_CONDUCT altered.
+
+
+
+Table ACTIVITY_CONDUCT altered.
+
+
+
+Table ACTIVITY_CONDUCT altered.
+
+
+
+Table BOOK altered.
+
+
+
+Table BOOK altered.
+
+
+
+Table CHECK_IN altered.
+
+
+
+Table CHECK_IN altered.
+
+
+
+Table HAS_ITEM altered.
+
+
+
+Table HAS_ITEM altered.
+
+
+
+Table HAS_SPECIAL altered.
+
+
+
+Table HAS_SPECIAL altered.
+
+
+
+Table HAS_TASK altered.
+
+
+
+Table HAS_TASK altered.
+
+
+
+Table ITEM altered.
+
+
+
+Table ROOM altered.
+
+
+
+Sequence ACTIVITYCODE created.
+
+
+
+Sequence CUSTID created.
+
+
+
+Sequence HKEEPERID created.
+
+
+
+Sequence HSHARECODE created.
+
+
+
+Sequence ROOMNUM created.
+
+
+
+Sequence TGUIDEID created.
+
